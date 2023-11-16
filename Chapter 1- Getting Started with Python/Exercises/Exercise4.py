@@ -1,5 +1,5 @@
-q_name ="sheehan"
-w_name ="moahmed"
-e_name ="sadique"
-name = q_name + w_name + e_name
-print(name,end="\n")
+a= "Hi, "
+b= "My name is "
+c= "Sheehan Mohammed Sadique"
+string= a+b+c
+print (string)
